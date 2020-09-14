@@ -1,0 +1,30 @@
+.beritaatas{width:100%;
+			float:left;
+}
+.beritaatas h1{font-family:"Times New Roman", Times, serif;
+				font-weight:bold;
+				margin-bottom:5px;
+				}
+.beritaatas p{font-family:"Times New Roman", Times, serif;
+				font-weight:bold;
+				margin-top:1px;
+				font-style:italic;
+				}
+.beritagambar{width:30%;
+			float:left;
+}
+.beritagambar img{width:100%;
+}
+.beritaartikel{width:56%;
+				float:right;
+				color:#000000;
+				background:#999999;
+				float:left;
+				margin-left:5px;
+				}
+.tanggal{width:10%;
+		text-align:center;
+		background:#999999;
+		margin:2px;
+		}
+
